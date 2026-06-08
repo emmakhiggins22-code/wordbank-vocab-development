@@ -1,11 +1,11 @@
 {
     "id": "19A20878",
-    "path": "~/R Studio 2026/wordbank-vocab-development/README.md",
+    "path": "C:/Users/emmak/OneDrive/Documents/R Studio 2026/wordbank-vocab-development/README.md",
     "project_path": "README.md",
     "type": "markdown",
-    "hash": "0",
+    "hash": "3865241584",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1780901616414.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "38,125",
-        "scrollLine": "9"
+        "cursorPosition": "42,82",
+        "scrollLine": "33"
     },
     "folds": "",
-    "lastKnownWriteTime": 1780901733,
+    "lastKnownWriteTime": 1780902282,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1780901899765,
+    "last_content_update": 1780902282328,
     "read_only": false,
     "read_only_alternatives": []
 }

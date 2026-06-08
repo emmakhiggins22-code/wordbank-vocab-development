@@ -26,6 +26,8 @@ Comprehension vocabulary grows steadily from 8 months onward, while production
 remains low until around 14 months before accelerating. This confirms the 
 well-documented lag between receptive and expressive language development.
 
+![Vocabulary Growth](plots/plot1_vocab_growth.png)
+
 **Plot 2 — Individual Variation**
 At 8 months, most children cluster near zero words produced. By 18 months, 
 some children produce nearly 400 words while others produce fewer than 10. 
@@ -33,10 +35,14 @@ The spread of individual differences grows dramatically with age, raising
 questions about what cognitive, linguistic, and environmental factors drive 
 this variation.
 
+![Individual Variation](plots/plot2_individual_variation.png)
+
 **Plot 3 — The Comprehension-Production Gap**
 The gap between comprehension and production widens through 16 months, 
 peaking at roughly 150 words, before beginning to narrow as production 
-# accelerates. This suggests children accumulate a substantial "silent vocabulary", words they understand but cannot yet say, before expressive language catches up.
+# accelerates. This suggests children accumulate a substantial "silent vocabulary, words they understand but cannot yet say, before expressive language catches up.
+
+![Comprehension Production Gap](plots/plot3_comp_prod_gap.png)
 
 ## Why This Matters
 These patterns speak to fundamental questions in language acquisition research: 
