@@ -39,8 +39,7 @@ this variation.
 
 **Plot 3 — The Comprehension-Production Gap**
 The gap between comprehension and production widens through 16 months, 
-peaking at roughly 150 words, before beginning to narrow as production 
-# accelerates. This suggests children accumulate a substantial "silent vocabulary, words they understand but cannot yet say, before expressive language catches up.
+peaking at roughly 150 words, before beginning to narrow as production accelerates. This suggests children accumulate a substantial "silent vocabulary, words they understand but cannot yet say, before expressive language catches up.
 
 ![Comprehension Production Gap](plots/plot3_comp_prod_gap.png)
 
